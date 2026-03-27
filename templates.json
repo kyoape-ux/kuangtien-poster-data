@@ -1,1 +1,17 @@
-{"v":1,"custom_templates":[],"builtin_overrides":{},"builtin_deleted":[],"last_updated":""}
+{
+  "custom_templates": [
+    {
+      "id": "test_sync_1774597513001",
+      "name": "同步測試範本",
+      "category": "活動",
+      "canvasW": 1920,
+      "canvasH": 1080,
+      "bgColor": "#1a1a2e",
+      "objects": [],
+      "createdAt": "2026-03-27T07:45:13.001Z"
+    }
+  ],
+  "builtin_overrides": {},
+  "builtin_deleted": [],
+  "last_updated": "2026-03-27T07:45:13.001Z"
+}
