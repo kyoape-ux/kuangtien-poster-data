@@ -1,1 +1,23 @@
-{"v": 1, "custom_templates": [], "builtin_overrides": {}, "builtin_deleted": [], "last_updated": ""}
+{
+  "custom_templates": [
+    {
+      "id": "custom_1774598466585",
+      "name": "跨裝置同步驗證",
+      "category": "活動",
+      "w": 1920,
+      "h": 1080,
+      "bg": "#1e3a5f",
+      "bgImgDataUrl": null,
+      "isCustom": true,
+      "createdAt": 1774598466585,
+      "previewGrad": [
+        "#1e3a5f",
+        "#0a1a2e"
+      ],
+      "objs": []
+    }
+  ],
+  "builtin_overrides": {},
+  "builtin_deleted": [],
+  "last_updated": "2026-03-27T08:01:06.585Z"
+}
