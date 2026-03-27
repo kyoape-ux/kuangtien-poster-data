@@ -1,1 +1,7 @@
-%7B%0A%20%20%22v%22%3A%201%2C%0A%20%20%22custom_templates%22%3A%20%5B%5D%2C%0A%20%20%22builtin_overrides%22%3A%20%7B%7D%2C%0A%20%20%22builtin_deleted%22%3A%20%5B%5D%2C%0A%20%20%22last_updated%22%3A%20%22%22%0A%7D
+{
+  "v": 1,
+  "custom_templates": [],
+  "builtin_overrides": {},
+  "builtin_deleted": [],
+  "last_updated": ""
+}
